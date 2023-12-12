@@ -14,6 +14,7 @@ The dataset is comprehensively described, including its types and details. We ut
 The Yellow Taxi Dataset is collected from NYC Taxi and Limousine Commission (TLC) and The weather data is collected from Visual Crossing which is a leading provider of weather data. The Weather Dataset has (365, 33) dimension, and Yellow Taxi Dataset has (39656098, 19) dimension. The links can be found as below:
 
 [1] TLC Trip Record Data - TLC. (n.d.). Www.nyc.gov. https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
+
 [2] Weather Data Services | Visual Crossing. (n.d.). Www.visualcrossing.com. https://www.visualcrossing.com/weather/weather-data-services
 
 Detailed description of datasets can be found in the final project report.
