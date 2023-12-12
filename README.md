@@ -1,5 +1,5 @@
 # Data-Science-Project
-Data-Driven Taxi-Fare Prediction based on Weather Condition
+## Title: Data-Driven Taxi-Fare Prediction based on Weather Condition
 
 ## Background and Motivation
 Considering the recent criticisms faced by ride-hailing services, such as Uber and Lyft, for surging fare prices during a flash flood emergency in NYC, underscores the broader impact of weather on transportation costs. This scrutiny serves as motivation for our inquiry into whether similar patterns exist within the traditional Yellow Taxi system. Motivated by observed impacts on ride-hailing prices and our intuitive sense that Yellow Taxi fares are similarly affected by weather conditions, this research seeks to unravel the intricate relationships between weather and taxi fares. By scrutinizing comprehensive datasets from the NYC Yellow Taxi Dataset and Weather Dataset and leveraging machine learning models, we aim to contribute to a more nuanced understanding of fare dynamics in the face of adverse weather conditions, ultimately benefiting both taxi service providers and consumers. Detailed version of it is illustrated in final project report.
