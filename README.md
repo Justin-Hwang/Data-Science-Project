@@ -34,6 +34,7 @@ Detailed description of datasets can be found in the final project report.
 
 ## Step 3. Statistical Analysis
 - Drop the samples where 'total_amount' < 0
+- See the detailed statistical description for each variable
 
 ## Step 4. Graphical Representation: Histogram Plot
 - Plot the Histograms for each variable
