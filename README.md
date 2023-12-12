@@ -2,7 +2,7 @@
 Data-Driven Taxi-Fare Prediction based on Weather Condition
 
 ## Background and Motivation
-Considering the recent criticisms faced by ride-hailing services, such as Uber and Lyft, for surging fare prices during a flash flood emergency in NYC, underscores the broader impact of weather on transportation costs. This scrutiny serves as motivation for our inquiry into whether similar patterns exist within the traditional Yellow Taxi system. Motivated by observed impacts on ride-hailing prices and our intuitive sense that Yellow Taxi fares are similarly affected by weather conditions, this research seeks to unravel the intricate relationships between weather and taxi fares. By scrutinizing comprehensive datasets from the NYC Yellow Taxi Dataset and Weather Dataset and leveraging machine learning models, we aim to contribute to a more nuanced understanding of fare dynamics in the face of adverse weather conditions, ultimately benefiting both taxi service providers and consumers.
+Considering the recent criticisms faced by ride-hailing services, such as Uber and Lyft, for surging fare prices during a flash flood emergency in NYC, underscores the broader impact of weather on transportation costs. This scrutiny serves as motivation for our inquiry into whether similar patterns exist within the traditional Yellow Taxi system. Motivated by observed impacts on ride-hailing prices and our intuitive sense that Yellow Taxi fares are similarly affected by weather conditions, this research seeks to unravel the intricate relationships between weather and taxi fares. By scrutinizing comprehensive datasets from the NYC Yellow Taxi Dataset and Weather Dataset and leveraging machine learning models, we aim to contribute to a more nuanced understanding of fare dynamics in the face of adverse weather conditions, ultimately benefiting both taxi service providers and consumers. Detailed version of it is illustrated in final project report.
 
 - Taget variable (Y) = Average Yellow Taxi Fare per Day Ride
 
@@ -10,8 +10,7 @@ Considering the recent criticisms faced by ride-hailing services, such as Uber a
 
 
 ## Dataset Description
-The dataset is comprehensively described, including its types and details. We utilized two datasets, namely the Yellow Taxi Dataset and the Weather Dataset, covering the period from January 1st, 2022, to December 31st, 2022.
-The Yellow Taxi Dataset is collected from NYC Taxi and Limousine Commission (TLC) and The weather data is collected from Visual Crossing which is a leading provider of weather data. The Weather Dataset has (365, 33) dimension, and Yellow Taxi Dataset has (39656098, 19) dimension. The links can be found as below:
+The dataset is comprehensively described, including its types and details in the final project report. We utilized two datasets, namely the Yellow Taxi Dataset and the Weather Dataset, covering the period from January 1st, 2022, to December 31st, 2022. The Yellow Taxi Dataset is collected from NYC Taxi and Limousine Commission (TLC) and The weather data is collected from Visual Crossing which is a leading provider of weather data. The Weather Dataset has (365, 33) dimension, and Yellow Taxi Dataset has (39656098, 19) dimension. The links can be found as below:
 
 [1] TLC Trip Record Data - TLC. (n.d.). Www.nyc.gov. https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 
@@ -56,5 +55,6 @@ Detailed description of datasets can be found in the final project report.
 ## Step 6. Conclusion: Correlation between Taxi-Fare and Weather Condition
 - Histogram Plot
 - Interpretation
-  
+
+Detailed explanation of these steps are illustrated in code and final project report.
 
