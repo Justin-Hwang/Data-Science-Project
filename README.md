@@ -42,15 +42,15 @@ Detailed description of datasets can be found in the final project report.
 
 ## Step 5. Machine Learning Implementation
 - Decision Tree on Binary Classification:
-      - Evaluation metric: Accuracy, Confusion Matrix, AUCROC
+Evaluation metric: Accuracy, Confusion Matrix, AUCROC
 - Decision Tree on Multiclass Classification: Accuracy, Confusion Matrix
-      - Evaluation metric: Accuracy, Confusion Matrix
+Evaluation metric: Accuracy, Confusion Matrix
 - Random Forest Tree on Multiclass Classification: Accuracy, Confusion Matrix
-      - Evaluation metric: Accuracy, Confusion Matrix
-      - Hyper parameter tuning: GridSearchCV = (n_estimators = 200, max_depth = None, min_samples_split = 2, min_samples_leaf = 1)
+Evaluation metric: Accuracy, Confusion Matrix
+Hyper parameter tuning: GridSearchCV = (n_estimators = 200, max_depth = None, min_samples_split = 2, min_samples_leaf = 1)
 - Deep Learning: Recurrent Neural Network (RNN): Accuracy
-      - Evaluation metric: Accuracy
-      - Batch Size = 64, Input Layer = 4, Hidden Layer = 32, Output Layer = 3, #epochs = 5, Loss = Cross Entropy Loss, Optimizer = Adam, Learning Rate = 0.001
+Evaluation metric: Accuracy
+Batch Size = 64, Input Layer = 4, Hidden Layer = 32, Output Layer = 3, #epochs = 5, Loss = Cross Entropy Loss, Optimizer = Adam, Learning Rate = 0.001
 
 ## Step 6. Conclusion: Correlation between Taxi-Fare and Weather Condition
 - Histogram Plot
